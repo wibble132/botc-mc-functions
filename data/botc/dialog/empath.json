@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:notice",
+    "title": "You learn...",
+    "body": {
+        "type": "minecraft:plain_message",
+        "contents": {
+            "text": "The number 1"
+        }
+    },
+    "can_close_with_escape": false
+}
