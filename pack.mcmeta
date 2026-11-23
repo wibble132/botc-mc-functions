@@ -1,6 +1,7 @@
 {
     "pack": {
-        "pack_format": 48,
-        "description": "§5BotC Lite§7 - Fabric 1.21.1, by §9novelwit§r"
+        "description": "BotC Datapack by wibble132",
+        "min_format": 121,
+        "max_format": 121
     }
 }
